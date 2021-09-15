@@ -1,0 +1,11 @@
+From https://sqlite.org/althttpd/dir
+
+Comment:	Add missing va_end(). Ticket [0c1e9179be76a8c7].
+Downloads:	Tarball | ZIP archive | SQL archive
+Timelines:	family | ancestors | trunk
+Files:		files | file ages | folders
+SHA3-256:	e28dea565e2a18ca920d7144e4a3622cc0b1f61e9f62c6d78925542c94fae52a
+User & Date:	drh on 2021-08-14 17:29:09
+Other Links: 	manifest | tags
+
+Modified althttpd.c from [001b7cc47f] to [3bd5867294].
